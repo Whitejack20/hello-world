@@ -8,9 +8,14 @@ I'm looking forward to discover new areas and develop new skills before I gradua
 
 Working in progress:
 - Excel and VBA;
-- Data Science;
+  - I've learned a lot about Excel in the last years, but VBA is still lacking;
+- Data Science
+  - Currently learning Python before entering this field;
 - Front-end and Javascript;
+  - HTML is ok;
+  - CSS still stresses me;
+  - JS looks interesting for now...;
 - Modeling in Blender (even though my notebook can't stand rendering most stuff hehe);
-- Upgrading my notebook (RAM :v);
-- Image and video editing (Photoshop? Premiere? Filmora?);
-- Explore new tech mods in Minecraft;
+  - Just admiring 3D works looks easier;
+- Image and video editing;
+  - Just the basics with Photoshop and Filmora;
